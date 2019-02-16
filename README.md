@@ -4,6 +4,6 @@
 
 > Till 16th January 2019, Collected by **Arjun Adhikari**
 
-⏩ [Questions](https://github.com/theArjun/Java/blob/master/examQuestions/README.md)  
-⏩ [Programming Questions](https://github.com/theArjun/Java/blob/master/examQuestions/ProgrammingQuestions.md)
+⏩ [Questions](https://github.com/theArjun/Java/blob/exam/examQuestions/README.md)  
+⏩ [Programming Questions](https://github.com/theArjun/Java/blob/exam/examQuestions/ProgrammingQuestions.md)
 
