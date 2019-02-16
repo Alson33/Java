@@ -1,2 +1,0 @@
-First line from File one
-Second Line from File one
