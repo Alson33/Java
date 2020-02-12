@@ -1,6 +1,6 @@
 # Applet Programming
 
-- An applet is a Java program that runs in a wen browser.
+- An applet is a Java program that runs in a web browser.
 - An applet is a Java class that extends the ```java.applet.Applet```.
 - No ```main()``` method
 - Applet was designed to be embedded with a HTML page.
@@ -74,7 +74,7 @@ Note : [ ] ⏩ Optional
 - The HTML Document URL Directory is used as the CODEBASE if this attribute is not specified.
 
 ### **CODE**
-- Code is the required attribute that gives the name of file containing compiled .class file. This file is related to the code base UTL of the applet.
+- Code is the required attribute that gives the name of file containing compiled .class file. This file is related to the code base URL of the applet.
 
 
 ### **ALT**
